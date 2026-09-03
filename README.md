@@ -243,10 +243,15 @@ bank-marketing-analysis/
 |   +-- data.csv 
 |
 +-- notebooks/
-|   +-- 01_data_inspection_and_cleaning.ipynb
-|   +-- 02_target_and_customer_analysis.ipynb
-|   +-- 03_campaign_and_correlation_analysis.ipynb
-|   +-- 04_logistic_regression.ipynb
+|   +-- 01_data_inspection.ipynb
+|   +-- 02_data_cleaning.ipynb
+|   +-- 03_target_variable_analysis.ipynb
+|   +-- 04_numerical_correlation_analysis.ipynb
+|   +-- 05_balance_and_deposit_subscription_analysis.ipynb
+|   +-- 06_campaign_effectiveness.ipynb
+|   +-- 07_correlation_heatmap.ipynb
+|   +-- 08_predictive_modeling_using_logistic_regression.ipynb
+|   +-- 09_final_project_consolidation.ipynb
 |
 +-- outputs/
 |   +-- figures/
