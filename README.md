@@ -240,6 +240,7 @@ bank-marketing-analysis/
 |
 +-- data/
 |   +-- bank_marketing.csv
+|   +-- data.csv 
 |
 +-- notebooks/
 |   +-- 01_data_inspection_and_cleaning.ipynb
